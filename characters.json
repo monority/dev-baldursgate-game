@@ -1,0 +1,190 @@
+[
+    {
+        "id": 1,
+        "name": "Jaheira",
+        "puissance": 72,
+        "attacks" : [
+            {
+                "name": "Spear Hit",
+                "damage": 20
+            },
+            {
+                "name": "Undead Curse",
+                "damage": 25
+            }
+        ],
+        "type": "Clerc"
+    },
+    {
+        "id": 2,
+        "name": "Safana",
+        "puissance": 94,
+        "attacks" : [
+            {
+                "name": "Shadow Strike",
+                "damage": 25
+            },
+            {
+                "name": "Leap Hit",
+                "damage": 18
+            }
+        ],
+        "type": "Assassin"
+    },
+    {
+        "id": 3,
+        "name": "Dynaheir",
+        "puissance": 89,
+        "attacks" : [
+            {
+                "name": "Magic Projectile",
+                "damage": 15
+            },
+            {
+                "name": "Fire Ball",
+                "damage": 35
+            }
+        ],
+        "type": "Battle Mage"
+    },
+    {
+        "id": 4,
+        "name": "Imoen",
+        "puissance": 81,
+        "attacks" : [
+            {
+                "name": "Bow Shot",
+                "damage": 15
+            },
+            {
+                "name": "Volley",
+                "damage": 20
+            }
+        ],
+        "type": "Ranger"
+    },
+    {
+        "id": 5,
+        "name": "Skie SilverShied",
+        "puissance": 72,
+        "attacks" : [
+            {
+                "name": "Boucing Blades",
+                "damage": 20
+            },
+            {
+                "name": "Backstab",
+                "damage": 35
+            }
+        ],
+        "type": "Thief"
+    },
+    {
+        "id": 6,
+        "name": "Khalid",
+        "puissance": 79,
+        "attacks" : [
+            {
+                "name": "Shield Bash",
+                "damage": 20
+            },
+            {
+                "name": "Faith Charge",
+                "damage": 40
+            }
+        ],
+        "type": "Warrior"
+    },
+    {
+        "id": 7,
+        "name": "Coran",
+        "puissance": 71,
+        "attacks": [
+            {
+                "name": "Dagger Throw",
+                "damage": 15
+            },
+            {
+                "name": "Guillotine",
+                "damage": 35
+            }
+        ],
+        "type": "Thief"
+    },
+    {
+        "id": 8,
+        "name": "Edwin",
+        "puissance": 95,
+        "attacks": [
+            {
+                "name": "Lighting Strike",
+                "damage": 25
+            },
+            {
+                "name": "Decimate",
+                "damage": 45
+            }
+        ],
+        "type": "Mage"
+    },  {
+        "id": 9,
+        "name": "Kivan",
+        "puissance": 76,
+        "attacks": [
+            {
+                "name": "Multiple Arrows",
+                "damage": 15
+            },
+            {
+                "name": "Strong Shot",
+                "damage": 35
+            }
+        ],
+        "type": "Archer"
+    },  {
+        "id": 10,
+        "name": "Minsc",
+        "puissance": 89,
+        "attacks": [
+            {
+                "name": "Rage",
+                "damage": 15
+            },
+            {
+                "name": "Charge",
+                "damage": 20
+            }
+        ],
+        "type": "Berserker"
+    },  {
+        "id": 11,
+        "name": "Montaron",
+        "puissance": 75,
+        "attacks": [
+            {
+                "name": "Evil stab",
+                "damage": 15
+            },
+            {
+                "name": "Broom Throw",
+                "damage": 12
+            }
+        ],
+        "type": "Thief"
+    },  {
+        "id": 12,
+        "name": "Xan",
+        "puissance": 83,
+        "attacks": [
+            {
+                "name": "Orb",
+                "damage": 15
+            },
+            {
+                "name": "Life Drain",
+                "damage": 15
+            }
+        ],
+        "type": "Evil Mage"
+    }
+]
